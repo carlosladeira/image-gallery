@@ -5,13 +5,11 @@
 body {
     font-family: Verdana, sans-serif;
     color: #080808;
-    margin: 0;
-    touch-action: none;
+    margin: 0
 }
 
 .mySlides {
-    display: none;
-    touch-action: auto;
+    display: none
 }
 
 img {
