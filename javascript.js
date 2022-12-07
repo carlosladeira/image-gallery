@@ -24,3 +24,8 @@ function showSlides(n) {
   slides[slideIndex-1].style.display = "block";  
   texts[slideIndex-1].style.display = "block"; 
 }
+
+function myFunction() {
+   var element = document.body;
+   element.classList.toggle("dark-mode");
+}

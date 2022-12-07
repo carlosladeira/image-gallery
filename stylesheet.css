@@ -4,6 +4,7 @@
 
 body {
     font-family: Verdana, sans-serif;
+    color: #080808;
     margin: 0
 }
 
@@ -53,7 +54,6 @@ img {
 
 /* Caption text */
 .text {
-    color: #080808;
     font-size: 26px;
     margin-top: 10px;
     padding: 8px 12px;
@@ -81,6 +81,11 @@ img {
 .fade {
     animation-name: fade;
     animation-duration: 1.5s;
+}
+
+.dark-mode {
+    background-color: black;
+    color: white;
 }
 
 @keyframes fade {
