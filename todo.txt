@@ -1,0 +1,6 @@
+Checklists no texto para completar tarefas
+Imagem deve ficar "limpa": rever posicionamento das setinhas + retirar contador
+Aumentar/diminuir tamanho fonte
+Estilizar botão Dark Mode
+Mock de dados com array de objeto (componente único no HTML)
+Zoom apenas na imagem
